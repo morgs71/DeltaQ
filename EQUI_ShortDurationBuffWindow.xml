@@ -553,7 +553,7 @@
 	<Label item="SDBW_Buff0_Label">
 		<ScreenID>SDBW_Buff0_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>600</EQType>
+		<EQType>135</EQType>
 		<Location>
 			<X>1</X>
 			<Y>7</Y>
@@ -572,7 +572,7 @@
 	<Label item="SDBW_Buff1_Label">
 		<ScreenID>SDBW_Buff1_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>601</EQType>
+		<EQType>136</EQType>
 		<Location>
 			<X>1</X>
 			<Y>34</Y>
@@ -591,7 +591,7 @@
 	<Label item="SDBW_Buff2_Label">
 		<ScreenID>SDBW_Buff2_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>602</EQType>
+		<EQType>137</EQType>
 		<Location>
 			<X>1</X>
 			<Y>61</Y>
@@ -610,7 +610,7 @@
 	<Label item="SDBW_Buff3_Label">
 		<ScreenID>SDBW_Buff3_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>603</EQType>
+		<EQType>138</EQType>
 		<Location>
 			<X>1</X>
 			<Y>88</Y>
@@ -629,7 +629,7 @@
 	<Label item="SDBW_Buff4_Label">
 		<ScreenID>SDBW_Buff4_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>604</EQType>
+		<EQType>139</EQType>
 		<Location>
 			<X>1</X>
 			<Y>115</Y>
@@ -648,7 +648,7 @@
 	<Label item="SDBW_Buff5_Label">
 		<ScreenID>SDBW_Buff5_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>605</EQType>
+		<EQType>140</EQType>
 		<Location>
 			<X>1</X>
 			<Y>142</Y>
@@ -667,7 +667,7 @@
 	<Label item="SDBW_Buff6_Label">
 		<ScreenID>SDBW_Buff6_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>606</EQType>
+		<EQType>141</EQType>
 		<Location>
 			<X>1</X>
 			<Y>169</Y>
@@ -686,7 +686,7 @@
 	<Label item="SDBW_Buff7_Label">
 		<ScreenID>SDBW_Buff7_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>607</EQType>
+		<EQType>142</EQType>
 		<Location>
 			<X>1</X>
 			<Y>196</Y>
@@ -705,7 +705,7 @@
 	<Label item="SDBW_Buff8_Label">
 		<ScreenID>SDBW_Buff8_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>608</EQType>
+		<EQType>143</EQType>
 		<Location>
 			<X>1</X>
 			<Y>223</Y>
@@ -724,7 +724,7 @@
 	<Label item="SDBW_Buff9_Label">
 		<ScreenID>SDBW_Buff9_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>609</EQType>
+		<EQType>144</EQType>
 		<Location>
 			<X>1</X>
 			<Y>250</Y>
@@ -743,7 +743,7 @@
 	<Label item="SDBW_Buff10_Label">
 		<ScreenID>SDBW_Buff10_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>610</EQType>
+		<EQType>145</EQType>
 		<Location>
 			<X>1</X>
 			<Y>277</Y>
@@ -762,7 +762,7 @@
 	<Label item="SDBW_Buff11_Label">
 		<ScreenID>SDBW_Buff11_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>611</EQType>
+		<EQType>146</EQType>
 		<Location>
 			<X>1</X>
 			<Y>304</Y>
@@ -781,7 +781,7 @@
 	<Label item="SDBW_Buff12_Label">
 		<ScreenID>SDBW_Buff12_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>611</EQType>
+		<EQType>147</EQType>
 		<Location>
 			<X>1</X>
 			<Y>331</Y>
@@ -800,7 +800,7 @@
 	<Label item="SDBW_Buff13_Label">
 		<ScreenID>SDBW_Buff13_Label</ScreenID>
 		<Font>1</Font>
-		<EQType>611</EQType>
+		<EQType>148</EQType>
 		<Location>
 			<X>1</X>
 			<Y>358</Y>
@@ -845,7 +845,7 @@
 		</Location>
 		<Size>
 			<CX>190</CX>
-			<CY>135</CY>
+			<CY>162</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -867,29 +867,11 @@
 		<Pieces>SDBW_Buff3_Button</Pieces>
 		<Pieces>SDBW_Buff4_Button</Pieces>
 		<Pieces>SDBW_Buff5_Button</Pieces>
-		<Pieces>SDBW_Buff6_Button</Pieces>
-		<Pieces>SDBW_Buff7_Button</Pieces>
-		<Pieces>SDBW_Buff8_Button</Pieces>
-		<Pieces>SDBW_Buff9_Button</Pieces>
-		<Pieces>SDBW_Buff10_Button</Pieces>
-		<Pieces>SDBW_Buff11_Button</Pieces>
-		<Pieces>SDBW_Buff12_Button</Pieces>
-		<Pieces>SDBW_Buff13_Button</Pieces>
-		<Pieces>SDBW_Buff14_Button</Pieces>
 		<Pieces>SDBW_Buff0_Label</Pieces>
 		<Pieces>SDBW_Buff1_Label</Pieces>
 		<Pieces>SDBW_Buff2_Label</Pieces>
 		<Pieces>SDBW_Buff3_Label</Pieces>
 		<Pieces>SDBW_Buff4_Label</Pieces>
 		<Pieces>SDBW_Buff5_Label</Pieces>
-		<Pieces>SDBW_Buff6_Label</Pieces>
-		<Pieces>SDBW_Buff7_Label</Pieces>
-		<Pieces>SDBW_Buff8_Label</Pieces>
-		<Pieces>SDBW_Buff9_Label</Pieces>
-		<Pieces>SDBW_Buff10_Label</Pieces>
-		<Pieces>SDBW_Buff11_Label</Pieces>
-		<Pieces>SDBW_Buff12_Label</Pieces>
-		<Pieces>SDBW_Buff13_Label</Pieces>
-		<Pieces>SDBW_Buff14_Label</Pieces>
 	</Screen>
 </XML>
